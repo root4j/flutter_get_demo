@@ -7,4 +7,4 @@ import 'ui/app.dart';
 void main() {
   Get.lazyPut<ConverterController>(() => ConverterController());
   runApp(const App());
-}
+} 
